@@ -1,0 +1,24 @@
+.BBe {
+    width: 100%;
+    height: 300px;
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+
+}
+
+.lh1 {
+    margin-left: 40px;
+}
+
+.lul {
+    flex-direction: column;
+}
+.lli {
+    color: #067A46;
+    font-size: 14px;
+    margin-top: -10px;
+}
+
+.ju {
+    color: #067A46;
+}

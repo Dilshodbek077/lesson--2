@@ -1,0 +1,39 @@
+.box-1 {
+    width: 100%;
+    height: 500px;
+    background-color: #F8F8F8;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    gap: 30px;
+}
+.box-2 {
+    width: 100%;
+    height: 260px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 30px;
+}
+.box-3 {
+    width: 260px;
+    height: 260px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.p-p {
+    width: 200px;
+    text-align: center;
+    font-size: 18px;
+}
+.btn {
+    width: 123px;
+    height: 48px;
+    border: 1px solid #067A46;
+    color: #067A46;
+    border-radius: 4px;
+    cursor: pointer;
+}

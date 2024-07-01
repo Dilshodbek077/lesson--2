@@ -1,0 +1,26 @@
+nav {
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 5px;
+}
+a {
+    text-decoration: none;
+}
+ul {
+    list-style: none;
+    display: flex;
+    gap: 30px;
+}
+li {
+    color: black;
+}
+.btn {
+    width: 100px;
+    height: 40px;
+    border: 1px solid #067A46;
+    border-radius: 4px;
+    color: #067A46;
+    background-color: transparent;
+}
